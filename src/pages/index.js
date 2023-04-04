@@ -1,8 +1,9 @@
-import Homee from "../../Components/Home"
+import Header from "../Components/Header"
 export default function Home() {
   return (
     <>
-        <Homee/>
+        <Header/>
+        
         
           </>
   )
